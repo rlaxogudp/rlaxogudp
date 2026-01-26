@@ -23,7 +23,7 @@
 <br>
 
 <div style="text-align: center;"> 
-    <a href="mailto:your_email@gmail.com"> 
+    <a href="mailto:"> 
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.notion.so/29c64aeb250d81ddacfad97c332a8a84"> 
@@ -45,7 +45,7 @@
 
 | 📸 Project Overview | 🛠️ Tech Stack & Role |
 | :--- | :--- |
-| **Description**<br>카메라로 촬영한 이미지를 **FPGA 가속기**로 실시간 엣지 검출하고,<br>**STM32 기반 펜 플로터**로 그려내는 임베디드 시스템입니다.<br><br>👉 **Check the Repository!**<br><br><a href="[여기에_레포지토리_링크_입력]"><img src="https://img.shields.io/badge/Ji--ing_Project-181717?style=for-the-badge&logo=github&logoColor=white"></a> | **Tech Stack**<br><img src="https://img.shields.io/badge/Verilog-A40000?style=flat-square&logo=SystemVerilog&logoColor=white"> <img src="https://img.shields.io/badge/FPGA-007ACC?style=flat-square&logo=Xilinx&logoColor=white"> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"><br><br>**My Role (FPGA)**<br>⚡ **RTL Design**: Image Processing Pipeline<br>(Grayscale → Gaussian → Sobel → Canny)<br>⚡ **Optimization**: Line Buffer & Timing Control |
+| **Description**<br>카메라로 촬영한 이미지를 **FPGA 가속기**로 실시간 엣지 검출하고,<br>**STM32 기반 펜 플로터**로 그려내는 임베디드 시스템입니다.<br><br>👉 **Check the Repository!**<br><br><a href="https://github.com/rlaxogudp/Pen-plotter-system"><img src="https://img.shields.io/badge/Ji--ing_Project-181717?style=for-the-badge&logo=github&logoColor=white"></a> | **Tech Stack**<br><img src="https://img.shields.io/badge/Verilog-A40000?style=flat-square&logo=SystemVerilog&logoColor=white"> <img src="https://img.shields.io/badge/FPGA-007ACC?style=flat-square&logo=Xilinx&logoColor=white"> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"><br><br>**My Role (FPGA)**<br>⚡ **RTL Design**: Image Processing Pipeline<br>(Grayscale → Gaussian → Sobel → Canny)<br>⚡ **Optimization**: Line Buffer & Timing Control |
 
 <br>
 
